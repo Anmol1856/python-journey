@@ -6,7 +6,7 @@ try:
     a = float(input("Enter first number: "))
     b = float(input("Enter second number: "))
 
-    op = input("Enter operation (+, -, *, /): ")
+    op = input("Enter operation (+, -, *, /, %): ")
 
     if op == "+":
         print("Result:", a + b)
@@ -17,6 +17,11 @@ try:
     elif op == "/":
         if b != 0:
             print("Result:", a / b)
+        else:
+            print("Error: Cannot divide by zero")
+    elif op == "%":
+        if b != 0:
+            print("Result:", a % b)
         else:
             print("Error: Cannot divide by zero")
     else:
