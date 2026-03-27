@@ -16,7 +16,7 @@ while True:
     elif choice == "3":
         import temperature
     elif choice == "0":
-        print("Exiting program...")
+        print("bye,Have a nice day!")
         break
     else:
-        print("Invalid choice, try again!")
+        print("Invalid choice")
