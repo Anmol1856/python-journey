@@ -1,0 +1,2 @@
+Device: sensor A, Battery: 40%, Temperature: 10.0 Degree Celsius
+Device: battery, Battery: 60%, Temperature: 25.0 Degree Celsius
