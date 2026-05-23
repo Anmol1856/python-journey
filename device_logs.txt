@@ -1,3 +1,0 @@
-Device: Sensor-A, Battery: 80%, Temperature: 35.0°C
-Device: sesor a, Battery: 20%, Temperature: 36.0°C
-Device: 2, Battery: 30%, Temperature: 25.0°C
